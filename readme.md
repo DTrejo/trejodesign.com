@@ -1,1 +1,1 @@
-#Housing Portfolio, see <http://trejodesign.com/>, or <http://dtrejo.github.com/trejodesign>
+# Housing Portfolio, see <https://trejodesign.com/>, or <https://dtrejo.com/trejodesign.com>
